@@ -1,1 +1,0 @@
-export {SectionTitle} from "./title.tsx";
