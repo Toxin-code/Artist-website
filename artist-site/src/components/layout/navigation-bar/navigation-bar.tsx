@@ -8,12 +8,12 @@ const items: MenuProps['items'] = [
         key: '/',
     },
     {
-        label: 'Вторая',
-        key: '/second',
+        label: 'Проекты',
+        key: '/projects',
     },
     {
-        label: 'Третья',
-        key: '/third',
+        label: 'Инфо',
+        key: '/about',
     },
 ]
 
