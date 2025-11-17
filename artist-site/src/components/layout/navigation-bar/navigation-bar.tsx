@@ -15,6 +15,10 @@ const items: MenuProps['items'] = [
         label: 'Инфо',
         key: '/about',
     },
+    {
+        label: 'Контакты',
+        key: '/contact',
+    },
 ]
 
 export function NavigationBar() {
